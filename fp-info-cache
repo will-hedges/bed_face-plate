@@ -1,4 +1,4 @@
-16976711585003594
+16980113187143849
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -74963,6 +74963,13 @@ varistor SIOV
 2
 2
 bed-face-components
+2.1mm_Screw_Hole
+Mounting Hole 2.7mm, M2.5
+mounting hole 2.7mm m2.5
+0
+1
+1
+bed-face-components
 Diode-Hybrid-Back-EDIT
 
 
@@ -75018,6 +75025,13 @@ MXOnly-2U-ReversedStabilizers-NoLED-ComboSpace-EDIT
 0
 4
 2
+bed-face-components
+plate
+
+
+0
+0
+0
 bed-face-components
 screw_hole
 
